@@ -1,0 +1,12 @@
+const Color = {
+  PRIMARY: "#0090D0",
+  SECONDARY: "#9CD04D",
+  INFO: "#00A4FF",
+  TEXT_PRIMARY: "#707070",
+  TEXT_SECONDARY: "#FFFFFF",
+  TEXT_QUESTION: "#000000",
+  RADIO_BUTTON: "#009688",
+  PRIMARY_DARK: "#0069A3",
+};
+
+export default Color;
